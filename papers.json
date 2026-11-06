@@ -1,0 +1,171 @@
+{
+  "updated": "2026-11-06",
+  "count": 15,
+  "papers": [
+    {
+      "number": 1,
+      "id": "FL4STDM-2026",
+      "title": "Federated learning for spatio-temporal data mining: a survey",
+      "authors": "Wei Huang, Junling Chen, Zhan Lin, Feng Wang, Jie Wang, Dexian Wang, Xiaocao Ouyang, Tianrui Li, Junbo Zhang",
+      "year": 2026,
+      "venue": "Information Fusion 133 (2026), 104287",
+      "official_url": "https://doi.org/10.1016/j.inffus.2026.104287",
+      "reading_role": "先读综述",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    },
+    {
+      "number": 2,
+      "id": "GIST-2024",
+      "title": "Efficient and Private Federated Trajectory Matching",
+      "authors": "Yuxiang Wang, Yuxiang Zeng, Shuyuan Li, Yuanyuan Zhang, Zimu Zhou, Yongxin Tong",
+      "year": 2024,
+      "venue": "IEEE TKDE 36(12), 8079–8092 (2024)",
+      "official_url": "https://doi.org/10.1109/TKDE.2024.3424411",
+      "reading_role": "导师指定基石",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    },
+    {
+      "number": 3,
+      "id": "HuFu-2022",
+      "title": "Hu-Fu: Efficient and Secure Spatial Queries over Data Federation",
+      "authors": "Yongxin Tong, Xuchen Pan, Yuxiang Zeng, Yexuan Shi, Chunbo Xue, Zimu Zhou, Xiaofei Zhang, Lei Chen, Yi Xu, Ke Xu, Weifeng Lv",
+      "year": 2022,
+      "venue": "PVLDB 15(6), 1159–1172 (2022)",
+      "official_url": "https://doi.org/10.14778/3514061.3514064",
+      "reading_role": "安全空间查询",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    },
+    {
+      "number": 4,
+      "id": "PDCF-2021",
+      "title": "A Privacy-Preserving Distributed Contextual Federated Online Learning Framework with Big Data Support in Social Recommender Systems",
+      "authors": "Pan Zhou, Kehao Wang, Linke Guo, Shimin Gong, Bolong Zheng",
+      "year": 2021,
+      "venue": "IEEE TKDE 33(3), 824–838 (2021)；在线发表 2019",
+      "official_url": "https://doi.org/10.1109/TKDE.2019.2936565",
+      "reading_role": "分布式上下文推荐",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    },
+    {
+      "number": 5,
+      "id": "ZKIV-ICIPTM-2026",
+      "title": "Zero-Knowledge Identity Verification",
+      "authors": "Pranav Kumar; Nikita Gupta; Param Srivastava; Parth Singh; Vivek Agarwal",
+      "year": 2026,
+      "venue": "2026 5th International Conference on Innovative Practices in Technology and Management (ICIPTM)",
+      "official_url": "https://doi.org/10.1109/ICIPTM69057.2026.11465549",
+      "reading_role": "身份零知识",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    },
+    {
+      "number": 6,
+      "id": "MARL-Blockchain-GCWCN-2025",
+      "title": "Hybrid Multi-Agent Reinforcement Learning and Blockchain Framework for Real-Time Transaction Integrity in Cloud-Driven Financial Systems",
+      "authors": "Aaluri Seenu; Jeevani Singireddy; Avinash Reddy Aitha; Raviteja Meda; Vijaya Rama Raju Gottimukkala; Ravi Shankar Garapati",
+      "year": 2025,
+      "venue": "2025 IEEE 3rd Global Conference on Wireless Computing and Networking (GCWCN)",
+      "official_url": "https://doi.org/10.1109/GCWCN66157.2025.11448456",
+      "reading_role": "金融交易完整性",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    },
+    {
+      "number": 7,
+      "id": "ZKIA-ICDCA-2026",
+      "title": "Verifiable Multi-Solver Intent Auctions with Zero-Knowledge Compliance Proofs: Toward Decentralized and MEV-Resistant Batch Settlement on Ethereum L2s",
+      "authors": "Rushikesh Ramteke; Diksha Dani",
+      "year": 2026,
+      "venue": "2026 International Conference on Data Science for Cyber-Physical Systems Resilience using Advanced Applications (ICDCA)",
+      "official_url": "https://doi.org/10.1109/ICDCA69396.2026.11620367",
+      "reading_role": "拍卖合规零知识",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    },
+    {
+      "number": 8,
+      "id": "eGrass-TIFS-2024",
+      "title": "eGrass: An Encrypted Attributed Subgraph Matching System With Malicious Security",
+      "authors": "Songlei Wang; Yifeng Zheng; Xiaohua Jia; Cong Wang",
+      "year": 2024,
+      "venue": "TIFS",
+      "official_url": "https://doi.org/10.1109/TIFS.2024.3409089",
+      "reading_role": "加密子图匹配",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    },
+    {
+      "number": 9,
+      "id": "Learning-Graph-Publishing-TIFS-2025",
+      "title": "Learning-Based Privacy-Preserving Graph Publishing Against Sensitive Link Inference Attacks",
+      "authors": "Yucheng Wu; Yuncong Yang; Xiao Han; Leye Wang; Junjie Wu",
+      "year": 2025,
+      "venue": "TIFS",
+      "official_url": "https://doi.org/10.1109/TIFS.2025.3592828",
+      "reading_role": "图发布隐私",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    },
+    {
+      "number": 10,
+      "id": "PEAFOWL-TIFS-2025",
+      "title": "PEAFOWL: Private Entity Alignment in Multi-Party Privacy-Preserving Machine Learning",
+      "authors": "Ying Gao; Huanghao Deng; Zukun Zhu; Xiaofeng Chen; Yuxin Xie; Pei Duan; Peixuan Chen",
+      "year": 2025,
+      "venue": "TIFS",
+      "official_url": "https://doi.org/10.1109/TIFS.2025.3542244",
+      "reading_role": "多方实体对齐",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    },
+    {
+      "number": 11,
+      "id": "P2FRPSI-TIFS-2024",
+      "title": "P²FRPSI: Privacy-Preserving Feature Retrieved Private Set Intersection",
+      "authors": "Guowei Ling; Fei Tang; Chaochao Cai; Jinyong Shan; Haiyang Xue; Wulu Li; Peng Tang; Xinyi Huang; Weidong Qiu",
+      "year": 2024,
+      "venue": "TIFS",
+      "official_url": "https://doi.org/10.1109/TIFS.2023.3343973",
+      "reading_role": "特征检索 PSI",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    },
+    {
+      "number": 12,
+      "id": "PSA-TDSC-2026",
+      "title": "PSA: Private Set Alignment for Secure and Collaborative Analytics on Large-Scale Data",
+      "authors": "Jiabo Wang; Elmo Xuyun Huang; Pu Duan; Huaxiong Wang; Kwok-Yan Lam",
+      "year": 2026,
+      "venue": "TDSC",
+      "official_url": "https://doi.org/10.1109/TDSC.2025.3624428",
+      "reading_role": "私有集合对齐",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    },
+    {
+      "number": 13,
+      "id": "paper-27",
+      "title": "Effective Federated Graph Matching",
+      "authors": "Yang Zhou; Zijie Zhang; Zeru Zhang; Lingjuan Lyu; Wei-Shinn Ku",
+      "year": 2024,
+      "venue": "ICML 2024; PMLR 235:62257-62293",
+      "official_url": "https://proceedings.mlr.press/v235/zhou24v.html",
+      "reading_role": "联邦图匹配",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    },
+    {
+      "number": 14,
+      "id": "paper-28",
+      "title": "PrivFusion: Privacy-Preserving Model Fusion via Decentralized Federated Graph Matching",
+      "authors": "Qian Chen; Yiqiang Chen; Xinlong Jiang; Teng Zhang; Weiwei Dai; Wuliang Huang; Bingjie Yan; Zhen Yan; Wang Lu; Bo Ye",
+      "year": 2024,
+      "venue": "IEEE Transactions on Knowledge and Data Engineering 36(12):9051-9064 (2024)",
+      "official_url": "https://doi.org/10.1109/TKDE.2024.3430819",
+      "reading_role": "隐私模型融合",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    },
+    {
+      "number": 15,
+      "id": "paper-29",
+      "title": "Crypto’Graph: Leveraging Privacy-Preserving Distributed Link Prediction for Robust Graph Learning",
+      "authors": "Sofiane Azogagh; Zelma Aubin Birba; Sébastien Gambs; Marc-Olivier Killijian",
+      "year": 2024,
+      "venue": "CODASPY ’24; pp.199-210 (2024)",
+      "official_url": "https://doi.org/10.1145/3626232.3653257",
+      "reading_role": "隐私分布式链接预测",
+      "metadata_status": "Transcribed from local paper and existing catalog; not independently reverified in this release."
+    }
+  ]
+}
